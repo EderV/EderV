@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project, I love new projects!**
 
-- ⚡ Fun fact **I can code without cofe (kidding 😆)**
+- ⚡ Fun fact **I can code without coffee (kidding 😆)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
