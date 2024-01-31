@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eder</h1>
 <h3 align="center">Fullstack developer from Spain</h3>
-<hr/>
+<hr>
 
 - 🔭 I’m currently working on [Ohtic](https://www.ohtic.com/)
 
