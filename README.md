@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack developer from Spain</h3>
 <hr>
 
-- 🔭 I’m currently working on [Ohtic](https://www.ohtic.com/)
+- 🔭 I’m currently working in [Ohtic](https://www.ohtic.com/)
 
 - 🌱 I’m currently learning **Spring Microservices, Android, Angular and Kubernetes**
 
