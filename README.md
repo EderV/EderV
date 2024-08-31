@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working in [Ohtic](https://www.ohtic.com/)
 
-- 🌱 I’m currently learning **Spring Microservices, Android, Angular and Kubernetes**
+- 🌱 I’m currently learning **Spring Microservices, Android, React Native and Kubernetes**
 
 - 👯 I’m looking to collaborate on **any project, I love new projects!**
 
